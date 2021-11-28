@@ -1,0 +1,295 @@
+!SESSION 2020-12-07 17:07:55.394 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=10
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-07 17:08:34.564
+!MESSAGE Schedule fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-07 17:08:34.576
+!MESSAGE Schedule version update jobs
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-07 17:08:35.363
+!MESSAGE Fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-07 17:08:35.365
+!MESSAGE Requesting user info (notification settings URL)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-12-07 17:08:36.174
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\domin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-07 17:08:36.442
+!MESSAGE BrowserCore initialized.
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-07 17:08:36.568
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-07 17:08:36.569
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-07 17:08:36.579
+!MESSAGE Parse notifications
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-07 17:08:36.586
+!MESSAGE Save JSON notifications content to cache file D:\PKSEM5\Duży Projekt\Aukcje\auctions_app\.metadata\.plugins\com.vaadin.integration.eclipse\notifications-cache.json
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-07 17:08:37.271
+!MESSAGE Icon https://vaadin.com/documents/10187/10395/tori-icon-blue-bg-90px/4597dffb-3868-4711-b422-8fc3e71844e6?t=1394217295000 is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-07 17:08:38.222
+!MESSAGE Image https://website.vaadin.com/hubfs/Frame%20%281%29.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-07 17:08:38.336
+!MESSAGE Image https://website.vaadin.com/hubfs/Vaadin%2018.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-07 17:08:38.412
+!MESSAGE Image https://website.vaadin.com/hubfs/MarCom/2-Vaadin-app.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-07 17:08:38.701
+!MESSAGE Image https://website.vaadin.com/hubfs/MarCom/1-performance-test.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-07 17:08:38.942
+!MESSAGE Image https://website.vaadin.com/hubfs/IMAGE@2x%20%281%29.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-07 17:08:39.131
+!MESSAGE Image https://website.vaadin.com/hubfs/MarCom/community-spotlight.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-07 17:08:39.237
+!MESSAGE Image https://website.vaadin.com/hubfs/Vaadin-DS-versioning.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-07 17:08:40.198
+!MESSAGE Image https://website.vaadin.com/hubfs/MarCom/image1-Nov-10-2020-09-10-27-07-AM.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-07 17:08:40.214
+!MESSAGE Schedule fetching new notifications
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-07 17:09:04.588
+!MESSAGE All vaadin 7+ projects : []
+!SESSION 2020-12-26 14:12:08.023 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=10
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-26 14:12:50.981
+!MESSAGE Schedule fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-26 14:12:50.990
+!MESSAGE Schedule version update jobs
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-26 14:12:51.642
+!MESSAGE Requesting user info (notification settings URL)
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-26 14:12:51.644
+!MESSAGE Fetching all notifications
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-12-26 14:12:52.155
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\domin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-26 14:12:52.353
+!MESSAGE BrowserCore initialized.
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-26 14:12:52.485
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-26 14:12:52.529
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-26 14:12:52.532
+!MESSAGE Parse notifications
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-26 14:12:52.541
+!MESSAGE Save JSON notifications content to cache file D:\PKSEM5\Duży Projekt\Aukcje\auctions_app\.metadata\.plugins\com.vaadin.integration.eclipse\notifications-cache.json
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-26 14:12:52.866
+!MESSAGE Image https://website.vaadin.com/hubfs/Frame%20%286%29.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-26 14:12:52.968
+!MESSAGE Image https://website.vaadin.com/hubfs/Blog/2020/trainings-blog2.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-26 14:12:53.049
+!MESSAGE Image https://website.vaadin.com/hubfs/IMAGE-Dec-14-2020-12-53-06-76-PM.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-26 14:12:53.149
+!MESSAGE Image https://website.vaadin.com/hubfs/MarCom/3-apache-jmeter.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-26 14:12:53.348
+!MESSAGE Image https://website.vaadin.com/hubfs/dashboard-initial-state.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-26 14:12:53.417
+!MESSAGE Image https://website.vaadin.com/hubfs/IMAGE%20%281%29.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2020-12-26 14:12:53.431
+!MESSAGE Schedule fetching new notifications
+!SESSION 2021-01-20 20:34:59.444 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=10
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.ui 2 0 2021-01-20 20:37:31.950
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-01-20 20:37:31.950
+!MESSAGE Cannot bind to an undefined command: plug-in='com.genuitec.eclipse.theming.ui', id='com.genuitec.myeclipse.help.darktheme.commandid'
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2021-01-20 20:37:33.555
+!MESSAGE A DevStyle Theme is being activated on this workspace; preparing colors and configuration
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2021-01-20 20:37:33.592
+!MESSAGE DevStyle has archived current color configurations to alternate preferences - will be restored when switching out of the DevStyle Theme
+
+!ENTRY com.vaadin.designer2 1 0 2021-01-20 20:37:52.198
+!MESSAGE Schedule fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2021-01-20 20:37:52.208
+!MESSAGE Schedule version update jobs
+
+!ENTRY com.vaadin.designer2 1 0 2021-01-20 20:37:53.102
+!MESSAGE Fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2021-01-20 20:37:53.106
+!MESSAGE Requesting user info (notification settings URL)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-01-20 20:37:53.921
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\domin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.vaadin.designer2 1 0 2021-01-20 20:37:53.969
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2021-01-20 20:37:53.998
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2021-01-20 20:37:54.000
+!MESSAGE Parse notifications
+
+!ENTRY com.vaadin.designer2 1 0 2021-01-20 20:37:54.008
+!MESSAGE Save JSON notifications content to cache file D:\PKSEM5\Duży Projekt\Aukcje\auctions_app\.metadata\.plugins\com.vaadin.integration.eclipse\notifications-cache.json
+
+!ENTRY com.vaadin.designer2 1 0 2021-01-20 20:37:54.451
+!MESSAGE Image https://website.vaadin.com/hubfs/Frame%20%2818%29.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2021-01-20 20:37:54.645
+!MESSAGE Image https://website.vaadin.com/hubfs/get_certified_featured3.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2021-01-20 20:37:54.658
+!MESSAGE BrowserCore initialized.
+
+!ENTRY com.vaadin.designer2 1 0 2021-01-20 20:37:54.813
+!MESSAGE Image https://website.vaadin.com/hubfs/liferay_featured_2.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2021-01-20 20:37:54.910
+!MESSAGE Image https://website.vaadin.com/hubfs/MarCom/4-gatling.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2021-01-20 20:37:55.046
+!MESSAGE Image https://website.vaadin.com/hubfs/Lit_featured_image.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2021-01-20 20:37:55.230
+!MESSAGE Image https://website.vaadin.com/hubfs/Frame%20%2811%29.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2021-01-20 20:37:55.312
+!MESSAGE Image https://website.vaadin.com/hubfs/luis_blog_image_2.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2021-01-20 20:37:55.327
+!MESSAGE Schedule fetching new notifications
+!SESSION 2021-04-07 21:25:58.469 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=10
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY com.vaadin.designer2 1 0 2021-04-07 21:26:57.465
+!MESSAGE Schedule fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2021-04-07 21:26:57.489
+!MESSAGE Schedule version update jobs
+
+!ENTRY com.vaadin.designer2 1 0 2021-04-07 21:26:59.631
+!MESSAGE Requesting user info (notification settings URL)
+
+!ENTRY com.vaadin.designer2 1 0 2021-04-07 21:26:59.633
+!MESSAGE Fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2021-04-07 21:27:00.617
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2021-04-07 21:27:00.617
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2021-04-07 21:27:00.633
+!MESSAGE Parse notifications
+
+!ENTRY com.vaadin.designer2 1 0 2021-04-07 21:27:00.661
+!MESSAGE Save JSON notifications content to cache file D:\PKSEM5\Duży Projekt\Aukcje\auctions_app\.metadata\.plugins\com.vaadin.integration.eclipse\notifications-cache.json
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-04-07 21:27:00.851
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\domin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.vaadin.designer2 1 0 2021-04-07 21:27:00.977
+!MESSAGE Icon https://website.vaadin.com/hubfs/1.%20Website%20images/Product%20Security%20Reports/security-icon.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2021-04-07 21:27:01.828
+!MESSAGE Image https://website.vaadin.com/hubfs/rolf%20ama%20demo.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2021-04-07 21:27:02.036
+!MESSAGE Image https://website.vaadin.com/hubfs/Frame%20%2854%29.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2021-04-07 21:27:02.184
+!MESSAGE Image https://website.vaadin.com/hubfs/1.%20Website%20images/Product%20Security%20Reports/security-banner-high.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2021-04-07 21:27:02.295
+!MESSAGE Image https://website.vaadin.com/hubfs/Performance%20b.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2021-04-07 21:27:02.465
+!MESSAGE Image https://website.vaadin.com/hubfs/Frame%20%2847%29.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2021-04-07 21:27:02.554
+!MESSAGE Image https://website.vaadin.com/hubfs/1.%20Website%20images/Product%20Security%20Reports/security-banner-medium.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2021-04-07 21:27:02.743
+!MESSAGE Image https://website.vaadin.com/hubfs/Frame%20%2837%29.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2021-04-07 21:27:02.746
+!MESSAGE BrowserCore initialized.
+
+!ENTRY com.vaadin.designer2 1 0 2021-04-07 21:27:02.916
+!MESSAGE Image https://website.vaadin.com/hubfs/Frame%20%2833%29.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2021-04-07 21:27:03.171
+!MESSAGE Image https://website.vaadin.com/hubfs/Vaadin-19-offline-1.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2021-04-07 21:27:03.723
+!MESSAGE Image https://website.vaadin.com/hubfs/Frame%20%2829%29.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2021-04-07 21:27:05.265
+!MESSAGE Image https://website.vaadin.com/hubfs/Webinar-Justin-Fagnani-2.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2021-04-07 21:27:05.613
+!MESSAGE Schedule fetching new notifications
+
+!ENTRY com.vaadin.designer2 1 0 2021-04-07 21:27:27.505
+!MESSAGE All vaadin 7+ projects : []
